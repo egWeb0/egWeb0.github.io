@@ -79,15 +79,15 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #222222;
   overflow-y: auto;
 }
 
 #header .profile img {
-  margin: 15px auto;
+  margin: 20px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 0px solid #2c2f3f;
 }
 
 #header .profile h1 {
@@ -1071,7 +1071,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #222222;
 }
 
 #footer .copyright {
