@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #222222;
+  background: #EEEEEE;
   overflow-y: auto;
 }
 
@@ -102,14 +102,14 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #fff;
+  color: #616461;
   text-decoration: none;
 }
 
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #919491;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -164,7 +164,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #444444;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -183,7 +183,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #149ddd;
 }
 
 .nav-menu a:hover i,
@@ -1071,18 +1071,19 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #222222;
+  background: #EEEEEE;
 }
 
 #footer .copyright {
   text-align: center;
+  color: #666666
 }
 
 #footer .credits {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
-  color: #eaebf0;
+  color: #616461;
 }
 
 @media (max-width: 1199px) {
